@@ -1,11 +1,11 @@
 {
-  "name": "understeam/yii2-httpclient",
+  "name": "MaksymSemenykhin/yii2-httpclient",
   "description": "Yii2 http client implementation based on Guzzle library",
   "type": "extension",
   "license": "GPL-v3",
   "support": {
-    "issues": "https://github.com/understeam/yii2-httpclient/issues",
-    "source": "https://github.com/understeam/yii2-httpclient"
+    "issues": "https://github.com/MaksymSemenykhin/yii2-httpclient/issues",
+    "source": "https://github.com/MaksymSemenykhin/yii2-httpclient"
   },
   "minimum-stability": "stable",
   "require": {
@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "understeam\\httpclient\\": "src"
+      "MaksymSemenykhin\\httpclient\\": "src"
     }
   }
 }
