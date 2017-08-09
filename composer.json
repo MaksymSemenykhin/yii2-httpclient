@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "MaksymSemenykhin\\httpclient\\": "src"
+      "understeam\\httpclient\\": "src"
     }
   }
 }
