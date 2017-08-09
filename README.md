@@ -1,14 +1,11 @@
 # Yii2 HTTP client
 
-[![Build Status](https://travis-ci.org/Understeam/yii2-httpclient.svg?branch=master)](https://travis-ci.org/Understeam/yii2-httpclient)
-[![Total Downloads](https://poser.pugx.org/understeam/yii2-httpclient/downloads)](https://packagist.org/packages/understeam/yii2-httpclient)
-
 ## Installation
 
 Recommended way to install this extenstion is through Composer:
 
 ```bash
-php composer.phar require understeam/yii2-httpclient:~1.0 --prefer-dist
+php composer.phar require MaksymSemenykhin/yii2-httpclient:~1.0 --prefer-dist
 ```
 
 ## Configuration
@@ -19,7 +16,7 @@ Add this lines to your config file:
 ...
 'components' => [
 	'httpclient' => [
-		'class' =>'understeam\httpclient\Client',
+		'class' =>'MaksymSemenykhin\httpclient\Client',
 		'detectMimeType' => true, // automatically transform request to data according to response Content-Type header
 		'requestOptions' => [
 		    // see guzzle request options documentation
