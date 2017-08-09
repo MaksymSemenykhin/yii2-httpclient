@@ -5,7 +5,7 @@
 Recommended way to install this extenstion is through Composer:
 
 ```bash
-php composer.phar require MaksymSemenykhin/yii2-httpclient:~1.0 --prefer-dist
+php composer.phar require MaksymSemenykhin/yii2-httpclient:~1.1 --prefer-dist
 ```
 
 ## Configuration
