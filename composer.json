@@ -1,5 +1,5 @@
 {
-  "name": "MaksymSemenykhin/yii2-httpclient",
+  "name": "maksymsemenykhin/yii2-httpclient",
   "description": "Yii2 http client implementation based on Guzzle library",
   "type": "extension",
   "license": "GPL-v3",
